@@ -6,7 +6,7 @@
  * cin.getline() obtiene un string ingresado por teclado. Necesita tres
  * parametros:
  * 			1. Nombre de variable que contiene el string
- * 			2. Cantidad de caracteres que deseemos se puedan introducir
+ * 			2. Cantidad de caracteres que deseamos se puedan introducir
  * 			3. El caracter que el usuario va a usar como final de la 
  * 			   cadena, generamente es '\n' (Enter)
  * 
